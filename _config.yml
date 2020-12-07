@@ -1,10 +1,10 @@
-is_project_page: false
+github:
+  is_project_page: false
+theme: jekyll-theme-hacker
+title: Nina Klobas
 
 plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
   collections: true
-
-theme: jekyll-theme-hacker
-title: Nina Klobas
