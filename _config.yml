@@ -5,6 +5,7 @@ relative_links:
   collections: true
 include:
   - index.md
+logo: slika.jpg
 
 theme: jekyll-theme-dinky
 title: Nina Klobas
