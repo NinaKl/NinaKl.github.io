@@ -3,22 +3,8 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-include:
-  - index.md
-logo: ![](slika.jpg)
-
-owner:
-  name: Nina Klobas
-  avatar: slika.jpg
-  #bio: ""
-  email: nina.klobas@durham.ac.uk
-  orcid: 0000-0002-8024-5782
-  researchgate: Nina_Klobas
-  linkedin: nina-klobas
   
-
-theme: jekyll-theme-hacker
-title: Nina Klobas
-
 github:
   is_project_page: false
+  theme: jekyll-theme-hacker
+  title: Nina Klobas
