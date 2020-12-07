@@ -19,3 +19,6 @@ owner:
 
 theme: jekyll-theme-hacker
 title: Nina Klobas
+
+github:
+  is_project_page: false
