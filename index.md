@@ -1,3 +1,4 @@
+![](slika.jpg)
 
 First year PhD student in the Algorithms and Complexity research group at Durham University ([ACiD](http://community.dur.ac.uk/algorithms.complexity/)).
 
