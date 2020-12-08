@@ -13,7 +13,7 @@ First year PhD student in the Algorithms and Complexity research group at Durham
 - Efficient Algorithms Computational Complexity
 
 ## Papers
-- N. Klobas, M. Krnc **Fast recognition of some parametric graph families**, 2020 [arXiv](https://arxiv.org/abs/2008.08856)
+- N. Klobas and M. Krnc, **Fast recognition of some parametric graph families**, 2020, [arXiv:2008.08856](https://arxiv.org/abs/2008.08856) [math.CO].
 
 
 ## Education
