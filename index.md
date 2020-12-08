@@ -18,7 +18,7 @@ First year PhD student in the Algorithms and Complexity research group at Durham
 
 ## Education
 
-- `2020 - 2024`
+- `2020 - present`
 PhD at __Durham University__ under the supervison of [George B. Mertzios](http://community.dur.ac.uk/george.mertzios/) and [Matthew Johnson](https://community.dur.ac.uk/matthew.johnson2/)
 
 - `2015 - 2020`
