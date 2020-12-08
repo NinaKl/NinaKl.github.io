@@ -1,7 +1,7 @@
-### I am a:
+### I am:
 First year PhD student in the Algorithms and Complexity research group at Durham University ([ACiD](http://community.dur.ac.uk/algorithms.complexity/)).
 
-## Research interests:
+# Research interests:
 
 - Algorithmic Graph Theory
 - Efficient Algorithms Computational Complexity
