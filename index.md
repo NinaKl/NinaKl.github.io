@@ -2,7 +2,7 @@
 First year PhD student in the Algorithms and Complexity research group at Durham University ([ACiD](http://community.dur.ac.uk/algorithms.complexity/)).
 
 ## Contact and profiles:
-- [nina.klobas (at) durham.ac.uk](mailto:nina.klobas@durham.ac.uk)
+- nina.klobas at durham.ac.uk
 - [ORCID ID](https://orcid.org/0000-0002-8024-5782)
 - [Research Gate](https://www.researchgate.net/profile/Nina_Klobas)
 - [LinkedIn](www.linkedin.com/in/nina-klobas)
