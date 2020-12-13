@@ -3,6 +3,7 @@ github:
 theme: jekyll-theme-hacker
 title: Nina Klobas
 logo: slika.jpg
+description: Nina Klobas
 
 plugins:
   - jekyll-relative-links
