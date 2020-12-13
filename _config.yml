@@ -9,3 +9,7 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+  
+  
+google_analytics: G-9TG55YR35G
+
