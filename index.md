@@ -11,6 +11,7 @@ First year PhD student in the Algorithms and Complexity research group at Durham
 
 - Algorithmic Graph Theory
 - Efficient Algorithms Computational Complexity
+- Temporal Graphs
 
 ## Papers
 - N. Klobas and M. Krnc, **Fast recognition of some parametric graph families**, 2020, [arXiv:2008.08856](https://arxiv.org/abs/2008.08856) [math.CO].
