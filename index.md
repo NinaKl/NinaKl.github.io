@@ -13,14 +13,14 @@ First year PhD student in the Algorithms and Complexity research group at Durham
 - Efficient Algorithms Computational Complexity
 - Temporal Graphs
 
-## Papers
+## Preprints
 - N. Klobas and M. Krnc, **Fast recognition of some parametric graph families**, 2020, [arXiv:2008.08856](https://arxiv.org/abs/2008.08856) [math.CO].
 
 
 ## Education
 
 - `2020 - present`
-PhD at __Durham University__ under the supervison of [George B. Mertzios](http://community.dur.ac.uk/george.mertzios/) and [Matthew Johnson](https://community.dur.ac.uk/matthew.johnson2/)
+PhD at __Durham University__ under the supervison of [George B. Mertzios](https://mertzios.github.io/) and [Matthew Johnson](https://community.dur.ac.uk/matthew.johnson2/)
 
 - `2015 - 2020`
 BSc and MSc in Mathematics at __FAMNIT, University of Primorska__
