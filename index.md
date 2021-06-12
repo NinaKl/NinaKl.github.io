@@ -28,5 +28,5 @@ BSc and MSc in Mathematics at __FAMNIT, University of Primorska__
 ## Teaching
 - `2020 - 2021` demonstrator of Theory of Computation
 
-## Extras
+## Quantum Physics
 - If interested in *non-equilibrium statistical mechanics* or *many-body (quantum and classical) dynamics* contact [Katja Klobas](https://www.physics.ox.ac.uk/our-people/klobas)
