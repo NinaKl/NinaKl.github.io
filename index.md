@@ -1,13 +1,13 @@
-## I am:
+## I am
 First year PhD student in the Algorithms and Complexity research group at Durham University ([ACiD](http://community.dur.ac.uk/algorithms.complexity/)).
 
-## Contact and profiles:
+## Contact and profiles
 - nina [dot] klobas [at] durham [dot] ac [dot] uk
 - [ORCID ID](https://orcid.org/0000-0002-8024-5782)
 - [Research Gate](https://www.researchgate.net/profile/Nina_Klobas)
 - [LinkedIn](www.linkedin.com/in/nina-klobas)
 
-## Research interests:
+## Research interests
 
 - Algorithmic Graph Theory
 - Efficient Algorithms Computational Complexity
@@ -27,3 +27,6 @@ BSc and MSc in Mathematics at __FAMNIT, University of Primorska__
 
 ## Teaching
 - `2020 - 2021` demonstrator of Theory of Computation
+
+## Extras
+- If interested in *non-equilibrium statistical mechanics* or *many-body (quantum and classical) dynamics* contact [Katja Klobas](https://www.physics.ox.ac.uk/our-people/klobas)
