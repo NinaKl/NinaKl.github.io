@@ -10,7 +10,4 @@ relative_links:
   enabled: true
   collections: true
   
-  
-ga_tracking: G-9TG55YR35G
-ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
 
