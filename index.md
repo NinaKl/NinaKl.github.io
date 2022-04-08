@@ -16,9 +16,9 @@ A second year PhD student in the Algorithms and Complexity research group at Dur
 ## Publications
 
 ### Conference Publications
+- T. Hamm, N. Klobas, G.B. Mertzios, P.G. Spirakis. **The Complexity of Temporal Vertex Cover in Small-Degree Graphs**. In Proceedings of the 36th AAAI Conference on Artificial Intelligence, a virtual conference, February - March 2022. To appear.
 - N. Klobas and M. Krnc, **Distinguishing graphs via cycles**. In Proceedings of the 27th International Computing and Combinatorics Conference (COCOON), Tainan, Taiwan, October 2021. [(PDF)](https://link.springer.com/chapter/10.1007/978-3-030-89543-3_33)
 - N. Klobas, G.B. Mertzios, H. Molter, R. Niedermeier, and P. Zschoche. **Interference-free walks in time: temporally disjoint paths**. In Proceedings of the 30th International Joint Conference on Artificial Intelligence (IJCAI), Montreal, Canada, August 2021. [(PDF)](https://www.ijcai.org/proceedings/2021/0563.pdf)
-- T. Hamm, N. Klobas, G.B. Mertzios, P.G. Spirakis. **The Complexity of Temporal Vertex Cover in Small-Degree Graphs**. In Proceedings of the 36th AAAI Conference on Artificial Intelligence, a virtual conference, February - March 2022. To appear.
 
 ### Preprints
 - T. Hamm, N. Klobas, G.B. Mertzios, P.G. Spirakis. **The Complexity of Temporal Vertex Cover in Small-Degree Graphs**, 2022.
