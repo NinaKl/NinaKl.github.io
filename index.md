@@ -18,8 +18,11 @@ A second year PhD student in the Algorithms and Complexity research group at Dur
 ### Conference Publications
 - N. Klobas and M. Krnc, **Distinguishing graphs via cycles**. In Proceedings of the 27th International Computing and Combinatorics Conference (COCOON), Tainan, Taiwan, October 2021. To appear.
 - N. Klobas, G.B. Mertzios, H. Molter, R. Niedermeier, and P. Zschoche. **Interference-free walks in time: temporally disjoint paths**. In Proceedings of the 30th International Joint Conference on Artificial Intelligence (IJCAI), Montreal, Canada, August 2021. [(PDF)](https://www.ijcai.org/proceedings/2021/0563.pdf)
+- T. Hamm, N. Klobas, G.B. Mertzios, P.G. Spirakis. **The Complexity of Temporal Vertex Cover in Small-Degree Graphs**. In Proceedings of the 36th AAAI Conference on Artificial Intelligence, a virtual conference, February - March 2022.
 
 ### Preprints
+- T. Hamm, N. Klobas, G.B. Mertzios, P.G. Spirakis. **The Complexity of Temporal Vertex Cover in Small-Degree Graphs**, 2022.
+- N. Klobas, G.B. Mertzios, H. Molter, P.G. Spirakis. **The complexity of computing optimum labelings for temporal connectivity**, 2022, [arXiv:2202.05880](https://arxiv.org/abs/2202.05880) [cs.DS].
 - N. Klobas, G.B. Mertzios, H. Molter, R. Niedermeier, and P. Zschoche. **Interference-free walks in time: temporally disjoint paths**, 2021, [arXiv:2105.08335](https://arxiv.org/abs/2105.08335) [cs.DS].
 - N. Klobas and M. Krnc, **Fast recognition of some parametric graph families**, 2020, [arXiv:2008.08856](https://arxiv.org/abs/2008.08856) [math.CO].
 
