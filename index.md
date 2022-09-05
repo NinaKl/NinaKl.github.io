@@ -16,12 +16,14 @@ A second year PhD student in the Algorithms and Complexity research group at Dur
 ## Publications
 
 ### Conference Publications
-- T. Hamm, N. Klobas, G.B. Mertzios, P.G. Spirakis. **The Complexity of Temporal Vertex Cover in Small-Degree Graphs**. In Proceedings of the 36th AAAI Conference on Artificial Intelligence, a virtual conference, February - March 2022. To appear.
+- N. Klobas, G. B.  Mertzios, H. Molter, P.G. Spirakis. **The Complexity of Computing Optimum Labelings for Temporal Connectivity**. In proceedings of the 47th International Symposium on Mathematical Foundations of Computer Science (MFCS), Vienna, Austria, August 2022. [(PDF)](https://drops.dagstuhl.de/opus/volltexte/2022/16860/)
+- T. Hamm, N. Klobas, G.B. Mertzios, P.G. Spirakis. **The Complexity of Temporal Vertex Cover in Small-Degree Graphs**. In Proceedings of the 36th AAAI Conference on Artificial Intelligence, a virtual conference, February - March 2022. [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/view/21259)
 - N. Klobas and M. Krnc, **Distinguishing graphs via cycles**. In Proceedings of the 27th International Computing and Combinatorics Conference (COCOON), Tainan, Taiwan, October 2021. [(PDF)](https://link.springer.com/chapter/10.1007/978-3-030-89543-3_33)
 - N. Klobas, G.B. Mertzios, H. Molter, R. Niedermeier, and P. Zschoche. **Interference-free walks in time: temporally disjoint paths**. In Proceedings of the 30th International Joint Conference on Artificial Intelligence (IJCAI), Montreal, Canada, August 2021. [(PDF)](https://www.ijcai.org/proceedings/2021/0563.pdf)
 
 ### Preprints
-- T. Hamm, N. Klobas, G.B. Mertzios, P.G. Spirakis. **The Complexity of Temporal Vertex Cover in Small-Degree Graphs**, 2022. , [arXiv:2204.04832](https://arxiv.org/abs/2204.04832) [cs.DS].
+- N. Klobas, G. B.  Mertzios, H. Molter, P.G. Spirakis. **The Complexity of Computing Optimum Labelings for Temporal Connectivity**, 2022, [arXiv:2202.05880](https://arxiv.org/abs/2202.05880) [cs.DS].
+- T. Hamm, N. Klobas, G.B. Mertzios, P.G. Spirakis. **The Complexity of Temporal Vertex Cover in Small-Degree Graphs**, 2022, [arXiv:2204.04832](https://arxiv.org/abs/2204.04832) [cs.DS].
 - N. Klobas, G.B. Mertzios, H. Molter, P.G. Spirakis. **The complexity of computing optimum labelings for temporal connectivity**, 2022, [arXiv:2202.05880](https://arxiv.org/abs/2202.05880) [cs.DS].
 - N. Klobas, G.B. Mertzios, H. Molter, R. Niedermeier, and P. Zschoche. **Interference-free walks in time: temporally disjoint paths**, 2021, [arXiv:2105.08335](https://arxiv.org/abs/2105.08335) [cs.DS].
 - N. Klobas and M. Krnc, **Fast recognition of some parametric graph families**, 2020, [arXiv:2008.08856](https://arxiv.org/abs/2008.08856) [math.CO].
