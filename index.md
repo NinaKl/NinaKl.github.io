@@ -1,5 +1,5 @@
 ## I am
-A second year PhD student in the Algorithms and Complexity research group at Durham University ([ACiD](http://community.dur.ac.uk/algorithms.complexity/)).
+A third year PhD student in the Algorithms and Complexity research group at Durham University ([ACiD](http://community.dur.ac.uk/algorithms.complexity/)).
 
 ## Contact and profiles
 - nina [dot] klobas [at] durham [dot] ac [dot] uk
