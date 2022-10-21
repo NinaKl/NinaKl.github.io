@@ -5,7 +5,7 @@ A third year PhD student in the Algorithms and Complexity research group at Durh
 - nina [dot] klobas [at] durham [dot] ac [dot] uk
 - [ORCID ID](https://orcid.org/0000-0002-8024-5782)
 - [Research Gate](https://www.researchgate.net/profile/Nina_Klobas)
-- [LinkedIn](www.linkedin.com/in/nina-klobas)
+- [LinkedIn](https://www.linkedin.com/in/nina-klobas)
 
 ## Research interests
 
