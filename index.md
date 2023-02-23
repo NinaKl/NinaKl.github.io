@@ -43,4 +43,4 @@ BSc and MSc in Mathematics at __FAMNIT, University of Primorska__
 - `2022 - 2023` demonstrator of Theory of Computation, Computational Thinking, Project Preparation
 
 ## Quantum Physics
-- If interested in *non-equilibrium statistical mechanics* or *many-body (quantum and classical) dynamics* contact [Katja Klobas](https://scholar.google.com/citations?user=1S7B9UMAAAAJ)
+- If interested in *non-equilibrium statistical mechanics* or *many-body (quantum and classical) dynamics* contact [Katja Klobas](https://www.nottingham.ac.uk/Physics/People/katja.klobas)
