@@ -25,7 +25,6 @@ A third year PhD student in the Algorithms and Complexity research group at Durh
 - N. Klobas, G. B.  Mertzios, H. Molter, P.G. Spirakis. **Realizing temporal graphs from fastest travel times**, 2022, [arXiv:2302.08860](https://arxiv.org/abs/2302.08860) [cs.DS].
 - N. Klobas, G. B.  Mertzios, H. Molter, P.G. Spirakis. **The Complexity of Computing Optimum Labelings for Temporal Connectivity**, 2022, [arXiv:2202.05880](https://arxiv.org/abs/2202.05880) [cs.DS].
 - T. Hamm, N. Klobas, G.B. Mertzios, P.G. Spirakis. **The Complexity of Temporal Vertex Cover in Small-Degree Graphs**, 2022, [arXiv:2204.04832](https://arxiv.org/abs/2204.04832) [cs.DS].
-- N. Klobas, G.B. Mertzios, H. Molter, P.G. Spirakis. **The complexity of computing optimum labelings for temporal connectivity**, 2022, [arXiv:2202.05880](https://arxiv.org/abs/2202.05880) [cs.DS].
 - N. Klobas, G.B. Mertzios, H. Molter, R. Niedermeier, and P. Zschoche. **Interference-free walks in time: temporally disjoint paths**, 2021, [arXiv:2105.08335](https://arxiv.org/abs/2105.08335) [cs.DS].
 - N. Klobas and M. Krnc, **Fast recognition of some parametric graph families**, 2020, [arXiv:2008.08856](https://arxiv.org/abs/2008.08856) [math.CO].
 
