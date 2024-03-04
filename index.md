@@ -1,5 +1,5 @@
 ## I am
-A third year PhD student in the Algorithms and Complexity research group at Durham University ([ACiD](http://community.dur.ac.uk/algorithms.complexity/)).
+Last year PhD student in the Algorithms and Complexity research group at Durham University ([ACiD](http://community.dur.ac.uk/algorithms.complexity/)).
 
 ## Contact and profiles
 - nina [dot] klobas [at] durham [dot] ac [dot] uk
@@ -16,7 +16,7 @@ A third year PhD student in the Algorithms and Complexity research group at Durh
 ## Publications
 
 ### Conference Publications
-- N. Klobas, G. B.  Mertzios, H. Molter, and P.G. Spirakis. **The Complexity of Computing Optimum Labelings for Temporal Connectivity**. In proceedings of the 47th International Symposium on Mathematical Foundations of Computer Science (MFCS), Vienna, Austria, August 2022. [(PDF)](https://drops.dagstuhl.de/opus/volltexte/2022/16860/)
+- N. Klobas, G. B.  Mertzios, H. Molter, and P.G. Spirakis. **The Complexity of Computing Optimum Labelings for Temporal Connectivity**. In Proceedings of the 47th International Symposium on Mathematical Foundations of Computer Science (MFCS), Vienna, Austria, August 2022. [(PDF)](https://drops.dagstuhl.de/opus/volltexte/2022/16860/)
 - T. Hamm, N. Klobas, G.B. Mertzios, and P.G. Spirakis. **The Complexity of Temporal Vertex Cover in Small-Degree Graphs**. In Proceedings of the 36th AAAI Conference on Artificial Intelligence, a virtual conference, February - March 2022. [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/view/21259)
 - N. Klobas and M. Krnc, **Distinguishing graphs via cycles**. In Proceedings of the 27th International Computing and Combinatorics Conference (COCOON), Tainan, Taiwan, October 2021. [(PDF)](https://link.springer.com/chapter/10.1007/978-3-030-89543-3_33)
 - N. Klobas, G.B. Mertzios, H. Molter, R. Niedermeier, and P. Zschoche. **Interference-free walks in time: temporally disjoint paths**. In Proceedings of the 30th International Joint Conference on Artificial Intelligence (IJCAI), Montreal, Canada, August 2021. [(PDF)](https://www.ijcai.org/proceedings/2021/0563.pdf)
@@ -35,7 +35,7 @@ A third year PhD student in the Algorithms and Complexity research group at Durh
 ## Education
 
 - `2020 - present`
-PhD at __Durham University__ under the supervison of [George B. Mertzios](https://mertzios.github.io/) and [Matthew Johnson](https://community.dur.ac.uk/matthew.johnson2/)
+PhD at __Durham University__ under the supervision of [George B. Mertzios](https://mertzios.github.io/) and [Matthew Johnson](https://community.dur.ac.uk/matthew.johnson2/)
 
 - `2015 - 2020`
 BSc and MSc in Mathematics at __FAMNIT, University of Primorska__
