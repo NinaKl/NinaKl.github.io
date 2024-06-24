@@ -1,11 +1,10 @@
 ## I am
-Last year PhD student in the Algorithms and Complexity research group at Durham University ([ACiD](http://community.dur.ac.uk/algorithms.complexity/)).
+A Doctor of Philosophy in Computer Science. During my PhD, I was a part of the Algorithms and Complexity research group at Durham University ([ACiD](http://community.dur.ac.uk/algorithms.complexity/)).
 
 ## Contact and profiles
-- nina [dot] klobas [at] durham [dot] ac [dot] uk
 - [ORCID ID](https://orcid.org/0000-0002-8024-5782)
 - [Research Gate](https://www.researchgate.net/profile/Nina_Klobas)
-- [LinkedIn](https://www.linkedin.com/in/nina-klobas)
+- [LinkedIn](https://www.linkedin.com/in/data-nina-klobas-phd-cs-quant/)
 
 ## Research interests
 
@@ -16,6 +15,8 @@ Last year PhD student in the Algorithms and Complexity research group at Durham 
 ## Publications
 
 ### Conference Publications
+- N. Klobas, G. B.  Mertzios, H. Molter, P.G. Spirakis. **Realizing temporal graphs from fastest travel times**, 2023, In Proceedings of the 3rd Symposium on Algorithmic Foundations of Dynamic Networks (SAND), Patras, Greece, June 2024. [(PDF)](https://drops.dagstuhl.de/storage/00lipics/lipics-vol292-sand2024/LIPIcs.SAND.2024.16/LIPIcs.SAND.2024.16.pdf).
+- N. Klobas, G. B.  Mertzios, and P.G. Spirakis. **Sliding into the Future: Investigating Sliding Windows in Temporal Graphs**. In Proceedings of the 48th International Symposium on Mathematical Foundations of Computer Science (MFCS), Bordeaux, France, August 2023. [(PDF)](https://drops.dagstuhl.de/storage/00lipics/lipics-vol272-mfcs2023/LIPIcs.MFCS.2023.5/LIPIcs.MFCS.2023.5.pdf)
 - N. Klobas, G. B.  Mertzios, H. Molter, and P.G. Spirakis. **The Complexity of Computing Optimum Labelings for Temporal Connectivity**. In Proceedings of the 47th International Symposium on Mathematical Foundations of Computer Science (MFCS), Vienna, Austria, August 2022. [(PDF)](https://drops.dagstuhl.de/opus/volltexte/2022/16860/)
 - T. Hamm, N. Klobas, G.B. Mertzios, and P.G. Spirakis. **The Complexity of Temporal Vertex Cover in Small-Degree Graphs**. In Proceedings of the 36th AAAI Conference on Artificial Intelligence, a virtual conference, February - March 2022. [(PDF)](https://ojs.aaai.org/index.php/AAAI/article/view/21259)
 - N. Klobas and M. Krnc, **Distinguishing graphs via cycles**. In Proceedings of the 27th International Computing and Combinatorics Conference (COCOON), Tainan, Taiwan, October 2021. [(PDF)](https://link.springer.com/chapter/10.1007/978-3-030-89543-3_33)
@@ -34,7 +35,7 @@ Last year PhD student in the Algorithms and Complexity research group at Durham 
 
 ## Education
 
-- `2020 - present`
+- `2020 - 2024`
 PhD at __Durham University__ under the supervision of [George B. Mertzios](https://mertzios.github.io/) and [Matthew Johnson](https://community.dur.ac.uk/matthew.johnson2/)
 
 - `2015 - 2020`
